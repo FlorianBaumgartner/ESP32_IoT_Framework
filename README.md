@@ -9,3 +9,6 @@ Further, USB Settings (such as VID, PID, Serial Number) can be freely choosen.
 
 * __ESP32S3_Basic__ <br />
   Fully working condiction
+
+* __ESP32C3_Basic__ <br />
+  Fully working condiction
